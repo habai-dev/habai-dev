@@ -1,1 +1,1 @@
-A personal website as I learn web development.
+a personal blog about anything
